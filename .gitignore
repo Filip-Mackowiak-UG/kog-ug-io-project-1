@@ -1,0 +1,6 @@
+.idea
+node_modules
+venv/
+huge_data/
+experiment_model.keras
+__pycache__
